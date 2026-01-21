@@ -51,7 +51,7 @@ layout: "skeleton"
 <article class="post">
   <header class="post-header">
     <h1>{{ page.title }}</h1>
-    <p class="post-meta">
+    <p class="post-meta" style="text-indent: 0px;">
       {% if page.author %}<span class="post-author">{{ page.author }}</span>{% endif %}
       <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
     </p>
