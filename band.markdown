@@ -16,6 +16,11 @@ Another Banger is a musical duo/band best known for creating the god-awful "Brit
 
 ### Our great songs!
 
+![Bang Frame Album Art](https://i.scdn.co/image/ab67616d0000b273ec773dc284674f7e36159183)
+*Bang Frame album cover.*
+
+**_Bang Frame_** — released December 13th, 2025, is an EP from Luke about escaping the simulation. Isn't that cool?
+
 ![Psychpaths Album Art](https://i.scdn.co/image/ab67616d0000b273a766a8eee0101da8807e2f1c)
 *The Diary / Journal of Deranged Psychopaths album cover.*
 
