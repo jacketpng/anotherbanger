@@ -45,9 +45,9 @@ function playThresholdAudio() {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-    const logo = document.querySelector('img[src*="threshold artwork.png"]') || 
-                 document.querySelector('img[src*="threshold%20artwork.png"]') ||
-                 document.querySelector('img[alt="THRESHOLD"]');
+    const logo = document.querySelector('img[src*="portality artwork.png"]') || 
+                 document.querySelector('img[src*="portality%20artwork.png"]') ||
+                 document.querySelector('img[alt="PORTALITY"]');
     
     console.log('Threshold script loaded, logo found:', !!logo);
     if (logo) {
