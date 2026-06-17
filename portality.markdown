@@ -20,11 +20,15 @@ window.SITE_CONFIG = {
 ### *An Earthbound/Deltarune/Omori-inspired RPG with unique art and writing that requires a very high IQ to understand.*
 Strange portals have appeared across Okana, bringing dangerous creatures that threaten the world. James Martins, along with a group of strangers, is drawn into the conflict by a mysterious prophecy. Their mission is to stop the machine responsible for these portals and confront the Blackhole Council before everything is destroyed.
 
-### Features:
-- Play as four unique characters
-- Explore your favorite areas
-- Destroy the evil council of Blackhole Incorporated
+## JAMES
 
-### *Can you cross the THRESHOLD and enter the abyss?*
+![James Picture](/images/portality pictures/James.gif)
 
-<small style="color: #666; opacity: 0.2; font-family: 'Dancing Script', cursive; font-weight:700; font-size: 12px;"><em>More shall be revealed to the patient.</em></small>
+
+## ELLA
+
+![Ella Picture](/images/portality pictures/Ella.gif)
+
+## KAYAK KADE
+
+![Kade Picture](/images/portality pictures/Kade.gif)
