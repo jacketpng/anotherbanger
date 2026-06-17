@@ -22,7 +22,7 @@ Impressed? No?
 
 ...
 
-I have created many awesome characters and written music for our games such as [THRESHOLD](/threshold), Benry & Krimpst, Super Cool Fighters, HOBO HORROR 2 (we don't talk about the first one), and others that we never finished!
+I have created many awesome characters and written music for our games such as [PORTALITY](/portality), Benry & Krimpst, Super Cool Fighters, HOBO HORROR 2 (we don't talk about the first one), and others that we never finished!
 
 I am also in a band with Luke called <span class="wave" style="font-family: 'Comic Neue', 'Comic Sans MS', 'Comic Sans', cursive; font-weight: bold;">ANOTHER BANGER!</span>
 
@@ -32,9 +32,9 @@ I am also in a band with Luke called <span class="wave" style="font-family: 'Com
 
 ### Games
 
-{% include music.html file="/Music/Character Theme.mp3" caption="This is a song from our upcoming game <a href=\"{{ '/threshold/' | relative_url }}\">THRESHOLD</a>." %}
+{% include music.html file="/Music/Character Theme.mp3" caption="This is a song from our upcoming game <a href=\"{{ '/portality/' | relative_url }}\">PORTALITY</a>." %}
 
-{% include music.html file="/Music/Threshold Area Theme.mp3" caption="Area theme for <a href=\"{{ '/threshold/' | relative_url }}\">THRESHOLD</a>. I've always been especially proud of this song. Dunno why." %}
+{% include music.html file="/Music/Threshold Area Theme.mp3" caption="Area theme for <a href=\"{{ '/portality/' | relative_url }}\">PORTALITY</a>. I've always been especially proud of this song. Dunno why." %}
 
 {% include music.html file="/Music/K&B.mp3" caption="This song was written for Benry & Krimpst! It is the main theme that plays during the first major portion of the game." %}
 

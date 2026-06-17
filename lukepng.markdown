@@ -28,7 +28,7 @@ Luke has made many games, including, but not limited to:
 - ***[I Am Not a Robot](https://another-banger.itch.io/i-am-not-a-robot)*** — A game where you do a really long, annoying captcha. It's pretty fun. All programming and art by Luke, some music also. 
 - Finally, last, and certainly least, ***[Hobo Horror](https://another-banger.itch.io/hobo-horror)*** — (see description for Hobo Horror 2)
 
-He is also currently working on programming, art and music for our upcoming game, ***[THRESHOLD]({{ '/threshold/' | relative_url }})***.
+He is also currently working on programming, art and music for our upcoming game, ***[PORTALITY]({{ '/portality/' | relative_url }})***.
 
 ## Music
 
