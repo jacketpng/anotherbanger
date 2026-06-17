@@ -2,7 +2,7 @@
 title: Band
 layout: page
 permalink: /band/
-nav_order: 0
+nav_order: 12
 ---
 
 # Another Banger has <span class=shake>great</span> songs.

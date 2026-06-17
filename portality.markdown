@@ -24,7 +24,6 @@ Strange portals have appeared across Okana, bringing dangerous creatures that th
 
 ![James Picture](/images/portality pictures/James.gif)
 
-
 ## ELLA MAYO
 
 ![Ella Picture](/images/portality pictures/Ella.gif)
@@ -32,3 +31,5 @@ Strange portals have appeared across Okana, bringing dangerous creatures that th
 ## KAYAK KADE
 
 ![Kade Picture](/images/portality pictures/Kade.gif)
+
+Join these crazy characters on an adventure that transends universes. Make new friends, enemies, watch soap operas with your mom if you want, pet your cat, beat up cops, sell your soul, buy gold, sell gold, take your food, eat your medicine, and above all, drink your coffee.
