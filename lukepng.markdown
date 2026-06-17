@@ -38,7 +38,7 @@ Luke has made many a-tunes, whether it be for games, for the band, or even just.
 
 {% include music.html file="/Music/hopskipandalush_1.mp3" caption="Luke wrote this song for a game that I was making, and never finished because I can't program for jack. That's why he programs everything! It was a really good game though… Maybe I'll make Luke finish it for me one day." %}
 
-{% include music.html file="/Music/boss theme.mp3" caption="This is a song that Luke composed for Threshold." %}
+{% include music.html file="/Music/boss theme.mp3" caption="This is a song that Luke composed for Portality." %}
 
 {% include music.html file="/Music/Sag Hag.mp3" caption="Sag Hag" %}
 
