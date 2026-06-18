@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Another Banger Dot Net
+title: Another Banger 
 ---
 
 # <span class="wave" style="font-family: 'Courier New', 'Lucida Console', monospace; font-weight: bold; text-transform: uppercase; letter-spacing: 2px;">Welcome! To Web!</span>
